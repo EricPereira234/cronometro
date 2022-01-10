@@ -1,0 +1,34 @@
+.body{
+    background-color: rgb(2, 173, 252);
+    text-align: center;
+}
+img{
+    width: 500px;
+    height: 500px;
+    margin-top: 50px;
+
+}
+.time{
+   font-size: 200px;
+   margin-top: -330px;
+}
+.a{
+    width: 100px;
+    padding: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #fff;
+    border:#075366 2px solid;
+    color: #0546F2;
+    box-shadow: #058AFC 5px 5px 4px;
+    border-radius: 20px;
+    font-size: 20px;
+    margin-top: 110px;
+    
+}
+.a:hover{
+    opacity: 0.9;
+    color: #05F29F;
+    transform: all 0.50;
+
+}
